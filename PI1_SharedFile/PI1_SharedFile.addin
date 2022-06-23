@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>PI1_SharedFile</Name>
+		<Assembly>PI1_SharedFile.dll</Assembly>
+		<AddInId>3AF9FB4F-F637-4E83-9E9A-B6A24C9E9676</AddInId>
+		<FullClassName>PI1_SharedFile.Main</FullClassName>
+		<VendorId>Daniil Tulkin</VendorId>
+		<VendorDescription>Daniil Tulkin</VendorDescription>
+	</AddIn>
+</RevitAddIns>
